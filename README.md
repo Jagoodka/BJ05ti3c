@@ -1,1 +1,46 @@
-# BJ05ti3c
+# bj05ti3c
+# Własne repozytorium kodów
+ 
+This project simply solves `this` problem.
+ 
+Simple code example 
+ 
+```php
+use My\Super\Library\Class;
+ 
+$data = [[1, 3], [1, 4], [2, 4], [3, 1], [4, 1], [4, 2]];
+ 
+$object = new Class(1, 2, 3)
+$object->makeAwesome($data);
+```
+ 
+## Dokumentacja
+ 
+Moja dokumentacja dotycząca pracy w domu z zajęć "Projektowanie i systemy baz danych".
+ 
+## Instalacja
+ 
+ Instalacja została wykonana na zajęciach.
+ 
+```
+composer require vendor/project
+https://https://github.com/Jagoodka/bj05ti3c
+```
+ 
+## Cel i Funkcje
+ 
+* zbiór elementów pracy w domu
+* możliwość pomocy kolegów z zespołu projektowego
+* nadzór kierownika projektu 
+ 
+## Wkład projektowy
+ 
+* Główny nadzór: https://g...content-available-to-author-only...b.com/Michal3456
+* Kod projektu: https://g...content-available-to-author-only...b.com/Jagoodka
+ 
+## Licencja
+ 
+Ten projekt został wygdany pod licencją MIT'a. Zobacz więcej w pliku LICENSE.
+ 
+## Autor
+Bartosz Jagodzinski
