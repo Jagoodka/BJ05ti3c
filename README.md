@@ -35,8 +35,8 @@ https://https://github.com/Jagoodka/bj05ti3c
  
 ## Wkład projektowy
  
-* Główny nadzór: https://g...content-available-to-author-only...b.com/Michal3456
-* Kod projektu: https://g...content-available-to-author-only...b.com/Jagoodka
+* Główny nadzór: https://github.com/Michal3456
+* Kod projektu: https://github.com/Jagoodka
  
 ## Licencja
  
